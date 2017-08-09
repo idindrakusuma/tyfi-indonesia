@@ -3,7 +3,7 @@
           <div data-animate="fadeIn" data-animate-duration="0.8">
             <hr class="hr-lg mt-0 mb-3 w-10 mx-auto hr-primary" />
             <h2 class="text-center font-weight-bold my-0">
-              About INConference 2017
+              About TYFI Indonesia 2017
             </h2>
             <h3 class="text-center font-weight-light mt-2 mb-0 text-muted">
                "Overflow"
@@ -17,7 +17,7 @@
               
             </div>
             <div class="col-md-6" data-animate="fadeIn" data-animate-delay="0.8" data-animate-offset="100%">
-              <p class="mb-0">Tahun 2014-2016 adalah waktu di mana kita kembali menemukan dan memperkuat sebuah dasar filosofi pelayanan yang akhirnya menjadi identitas dan jatidiri komunitas. Dengan sebuah vision statement "Inspiration For Everyone" maka komunitas pemuda remaja di gereja ini memiliki sebuah kerinduan untuk dapat menginpirasi generasi ini dengan pesan kebenaran. Tiga tahun terakhir juga menjadi sebuah proses waktu dimana beberapa anak muda memberikan diri lebih jauh untuk melayani generasi dengan...</p><br>
+              <p class="mb-0">Nulla excepteur et deserunt voluptate. Aliqua cillum eu ullamco irure ex aliqua nulla ipsum. Ut consectetur amet nulla Lorem sint. Non excepteur ad ut amet cupidatat ex dolor deserunt adipisicing deserunt excepteur. Velit culpa consectetur pariatur elit labore magna tempor laboris irure. Veniam dolor est sint in do ipsum. Veniam irure exercitation commodo minim exercitation.</p><br>
               <button class="btn btn-inverse btn-invert" data-toggle="modal" data-target=".about-inconference">Selengkapnya</button><br/>
             </div>
           </div>

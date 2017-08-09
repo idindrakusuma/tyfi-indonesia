@@ -64,6 +64,31 @@
 
 }
 
+.register_now {
+  background-color: #34495e;
+  color: #f1f1f1 !important;
+  border-radius: 2px 30px;
+}
+
+/* Judul Slide Show Awal */
+#highlighted h1.fls{
+    color: #205c7a;
+    font-size: 5vw;
+    text-align: center;
+    margin-top: 1em;
+}
+/*#highlighted h1.fls span{
+    padding: 0 30px;
+    border-radius: 20px;
+    background-color: #205c7a;
+}*/
+
+#highlighted h1.tahun{
+    color: #e55346;
+    font-size: 5vw;
+    text-align: center;
+}
+
 /*
  * --------------------------------------------------
  * 2. Colours
@@ -109,6 +134,12 @@ body.modal-open .jPanelMenu-panel {
 
 @media (max-width: 575px) {
   /* Small devices (575px and down) */
+  #highlighted h1.fls{
+        font-size: 11vw;
+    }
+    #highlighted h1.tahun{
+        font-size: 11vw;
+    }
 }
 
 @media (max-width: 767px) {

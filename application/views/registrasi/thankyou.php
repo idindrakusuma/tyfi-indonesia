@@ -44,7 +44,7 @@
                     <div class="card wizard-card" data-color="red" id="wizardProfile">
                         <div class="wizard-header text-center">
                               <h3 class="wizard-title">Kamu berhasil mendaftar calon Peserta!</h3>
-                          <p class="category">INConference 2017 "Overflow"</p>
+                          <p class="category">Tyfi Indonesia 2017 "Overflow"</p>
                           <hr>
                           </div>
                             <div class="col-sm-4 col-sm-offset-1">
@@ -60,12 +60,14 @@
                                     <p class="description">
                                       <ol>
                                         <li>Periksa email kamu <!-- [<?=$email;?>]. --></li>
-                                        <li>Ikuti langkah - langkah yang tertera pada email balasan dari <i>inconference2017@gmail.com</i></li>
+                                        <li>Ikuti langkah - langkah yang tertera pada email balasan dari 
+                                          <!-- tulis email yang digunakan  -->
+                                          <i>inconference2017@gmail.com</i></li>
                                         <li>Selesai,</li>
                                       </ol>
                                     </p>
                                     <a href="<?=base_url();?>" class="btn btn-sm btn-danger"> Kembali ke Beranda</a>
-                                    <a href="http://inconference2017.com/register" class="btn btn-sm btn-warning">Daftar Lagi</a> 
+                                    <a href="<?=base_url();?>/register" class="btn btn-sm btn-warning">Daftar Lagi</a> 
                                 </div>
                             </div>
                     </div>
