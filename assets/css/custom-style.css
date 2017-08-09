@@ -63,7 +63,19 @@
 .logo-acara{
 
 }
+/* redefine botton  */
+.btn-inverse{
+  border-radius: 3px 20px;
+}
 
+.b-1-em{
+  margin-bottom: 1em;
+}
+.t-1-em{
+  margin-top: 1em;
+}
+
+/* tombol register now header  */
 .register_now {
   background-color: #34495e;
   color: #f1f1f1 !important;
@@ -88,6 +100,21 @@
     font-size: 5vw;
     text-align: center;
 }
+/* button untuk slide  */
+.btn-slide {
+  animation-delay: 0.55s;
+  border-radius: 3px 50px;
+  background-color: #2980b9;
+  color: #fff;
+  font-weight: 600;
+  padding: 1em;
+}
+
+.btn-slide:hover{
+  background-color: #3498db;
+  color: #fff;
+}
+
 
 /*
  * --------------------------------------------------
