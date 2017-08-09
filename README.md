@@ -1,4 +1,4 @@
-# INConference 2017
+# TYFI INDNESIA
 
 - Web Developer : Indra Kusuma
 - Website : www.indrakusuma.web.id
@@ -21,4 +21,4 @@
 
 
 ## Link
-inconference2017.com
+www.tyfiindonesia.com

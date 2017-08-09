@@ -3,7 +3,6 @@
       <div class="slider-wrapper rev_slider_wrapper fullscreen-container bg-white" data-page-class="slider-appstrap-theme">
         <div class="rev_slider fullscreenbanner" data-toggle="slider-rev" data-delay="12000" data-startwidth="1100" data-startheight="540" data-fullWidth="off">
           <ul>
-            
             <!-- SLIDE 3 -->
             <li class="slide overlay overlay-op-2" data-index="rs-3007" data-transition="fadethroughdark" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000" data-thumb="assets/img/slides/office_cover-100x50.jpg" data-rotate="0" data-saveperformance="off" data-title="Office">
               <!-- MAIN IMAGE -->
