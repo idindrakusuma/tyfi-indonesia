@@ -1,0 +1,7 @@
+index.php
+application/config/config.php
+application/config/database.php
+panel-admin/index.php
+panel-admin/application/config.php
+panel-admin/application/database.php
+panel-admin/third_party/tiket/*
