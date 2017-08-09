@@ -7,7 +7,7 @@
             <h4 class="modal-title" id="myModalLabel">Konfirmasi Keluar</h4>
           </div>
           <div class="modal-body">
-            Apakah Kamu benar - benar ingin <strong>keluar dari Panel Admin</strong> inconference2017, <?=$this->session->user_nama;?> ?
+            Apakah Kamu benar - benar ingin <strong>keluar dari Panel Admin</strong> TYFI Indonesia, <?=$this->session->user_nama;?> ?
           </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-arrow-left"></i> Gak Jadi</button>

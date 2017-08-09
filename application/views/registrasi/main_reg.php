@@ -5,7 +5,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 	<link rel="apple-touch-icon" sizes="76x76" href="assets/img/apple-icon.png" />
 	<link rel="icon" type="image/png" href="<?=base_url();?>assets/img/logo/fav.png" />
-	<title>Registrasi Peserta Inconference 2017</title>
+	<title>Registrasi Peserta TYFI Indonesia 2017</title>
 
 	<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
     <meta name="viewport" content="width=device-width" />
@@ -32,7 +32,7 @@
 </head>
 
 <body>
-	<div class="image-container set-full-height" style="background-image: url('<?=base_url();?>assets/registrasi/img/background.png'); background-attachment: fixed;">
+	<div class="image-container set-full-height" style="background-image: url('<?=base_url();?>assets/img/slides/slide_1.jpg'); background-attachment: fixed;">
 	    <!--   Big container   -->
 	    <div class="container">
 	        <div class="row">
@@ -45,7 +45,7 @@
 		                    <?php echo form_open("submit"); ?>
 		                    	<div class="wizard-header text-center">
 		                        	<h3 class="wizard-title">Registrasi Peserta</h3>
-									<p class="category">Inconference 2017</p>
+									<p class="category">TFYI Indonesia 2017</p>
 		                    	</div>
 
 								<?php $this->load->view('registrasi/nav_reg'); ?>
@@ -77,7 +77,7 @@
 
 	    <div class="footer">
 	        <div class="container text-center">
-	            Made with <i class="fa fa-heart heart"></i> by <a href="http://www.indrakusuma.web.id">Incoference 2017</a>.</a>
+	            Made with <i class="fa fa-heart heart"></i> by <a href="https://indrakusuma.web.id">TYFI Indonesia 2017</a>.</a>
 	        </div>
 	    </div>
 	</div>
