@@ -7,7 +7,7 @@
         <h3 class="text-grey font-weight-normal animated fadeIn animated-done" data-animate="fadeIn" data-animate-delay="0.35" style="animation-delay: 0.35s;">
           Your Slogan Here!
         </h3>
-        <hr class="hr-inverse hr-lg w-20 mx-auto my-4 animated fadeIn animated-done" data-animate="fadeIn" data-animate-delay="0.45" style="animation-delay: 0.45s;">
+        <hr class="border-putih hr-lg w-20 mx-auto my-4 animated fadeIn animated-done" data-animate="fadeIn" data-animate-delay="0.45" style="animation-delay: 0.45s;">
         <div> <a href="<?=base_url();?>/register" class="btn btn-slide btn-lg py-lg-3 px-lg-5 animated fadeIn animated-done" data-toggle="scroll-link" data-animate="fadeIn" data-animate-delay="0.55" style="animation-delay: 0.55s;">Register Now!</a>
 </div>
       </div>

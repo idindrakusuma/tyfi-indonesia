@@ -130,7 +130,17 @@
  * 2. Colours
  *-------------------------------------------------- 
  */
+.bg-merah{
+  background-color: #e74c3c;
+}
 
+.txt-merah{
+  color: #e74c3c;
+}
+
+.border-putih{
+  background-color: #fff;
+}
 
 /*
  * --------------------------------------------------

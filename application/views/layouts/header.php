@@ -18,7 +18,7 @@
             <!--branding/logo -->
             <div class="header-brand flex-first">
                <a class="header-brand-text" href="<?=base_url();?>" title="Incoference 2017 | Overflow ">
-                <img class="logo-kecil" src="<?=base_url();?>assets/img/logo/logo_header.png" alt="TYF 2018">
+                <img class="logo-kecil" src="<?=base_url();?>assets/img/logo/logo_tfy.png" alt="TYF 2018">
               </a>
               <div class="header-divider hidden-md-down"></div>
               <div class="header-slogan hidden-md-down"><b>#TYF2018!</b></div>

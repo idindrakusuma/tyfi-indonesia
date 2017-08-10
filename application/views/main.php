@@ -10,7 +10,7 @@ HAPPY CODING!
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title><?=$judul;?> | TYFI Indonesia</title>
+    <title><?=$judul;?> | TYF Indonesia</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -21,7 +21,7 @@ HAPPY CODING!
     <meta name="description" content="">
     <meta property="og:url" content="" />
     <meta property="og:image" content="" />
-    <meta name="author" content="Inconference 2017">
+    <meta name="author" content="TFY Indonesia">
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
@@ -31,7 +31,7 @@ HAPPY CODING!
     <link href="<?=base_url();?>assets/css/custom-style.css" rel="stylesheet">
 
 
-    <link rel="shortcut icon" href="<?=base_url();?>assets/img/logo/fav.png">
+    <link rel="shortcut icon" href="<?=base_url();?>assets/img/logo/logo_tfy.png">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,300' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Rambla' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Calligraffitti' rel='stylesheet' type='text/css'>
