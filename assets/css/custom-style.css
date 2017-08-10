@@ -77,10 +77,15 @@
 
 /* tombol register now header  */
 .register_now {
-  background-color: #34495e;
+  background-color: #e74c3c;
   color: #f1f1f1 !important;
   border-radius: 2px 30px;
 }
+
+.register_now:hover{
+  background-color: #c0392b;
+}
+
 
 /* Judul Slide Show Awal */
 #highlighted h1.fls{
@@ -104,17 +109,21 @@
 .btn-slide {
   animation-delay: 0.55s;
   border-radius: 3px 50px;
-  background-color: #2980b9;
+  background-color: #c0392b;
   color: #fff;
   font-weight: 600;
   padding: 1em;
 }
 
 .btn-slide:hover{
-  background-color: #3498db;
+  background-color: #e74c3c;
   color: #fff;
+  border-color:#fff;
 }
 
+.logo-kecil{
+  max-width: 100%;
+}
 
 /*
  * --------------------------------------------------
