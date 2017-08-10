@@ -46,6 +46,7 @@
                   <li class="nav-item"><a href="#about" data-toggle="scroll-link" class="nav-link">About</a></li>
                   <li class="nav-item"><a href="#pembicara" data-toggle="scroll-link" class="nav-link">Speaker</a></li>
                   <li class="nav-item"><a href="#agenda" data-toggle="scroll-link" class="nav-link">Schedule</a></li>
+                  <li class="nav-item"><a href="#testimonials" data-toggle="scroll-link" class="nav-link">Testimonials</a></li>
                   
                   <li class="nav-item"><a href="#contact" data-toggle="scroll-link" class="nav-link">Contact Us</a></li>
                   <li class="nav-item register_now"><a href="<?=base_url();?>register" data-toggle="scroll-link" class="nav-link" style="color: #f1f1f1 !important;" >Register now!</a></li>

@@ -1,4 +1,4 @@
-<footer id="footer" class="py-3">
+<footer id="footer" class="py-3 bg-inverse">
       <div class="container">
         <div class="row">
           <!--@todo: replace with company copyright details-->

@@ -2,14 +2,14 @@
       <div id="pembicara" class="p-3 py-lg-6 bg-inverse">
         <div class="container">
           <div data-animate="fadeIn" data-animate-duration="0.6">
-            <hr class="hr-lg mt-0 mb-3 w-10 mx-auto hr-primary" />
+            <hr class="hr-lg mt-0 mb-3 w-10 mx-auto border-putih" />
             <h2 class="text-white text-center text-uppercase font-weight-bold my-0">
               SPEAKER
             </h2>
             <h3 class="text-center font-weight-light mt-2 mb-0 text-grey">
               Inconference 2017
             </h3>
-            <hr class="mb-5 w-50 mx-auto" />
+            <hr class="mb-5 w-50 mx-auto border-putih" />
           </div>
           <!-- pembicara start -->
 

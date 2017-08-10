@@ -44,7 +44,7 @@
                     Hari Pertama, Lantai 6
                   </h4>
                   <table class="table table-bordered">
-                  	<thead class="thead-inverse">
+                  	<thead class="bg-merah">
                   		<tr>
                   			<th>No</th>
                   			<th>Time</th>
@@ -141,7 +141,7 @@
                     Hari Kedua, Lantai 6
                   </h4>
                   <table class="table table-bordered">
-                  	<thead class="thead-inverse">
+                  	<thead class="bg-merah">
                   		<tr>
                   			<th>No</th>
                   			<th>Time</th>
@@ -227,7 +227,7 @@
                     Revival Night, Lantai 1
                   </h4>
                   <table class="table table-bordered">
-                  	<thead class="thead-inverse">
+                  	<thead class="bg-merah">
                   		<tr>
                   			<th>Revival Night</th>
                   		</tr>

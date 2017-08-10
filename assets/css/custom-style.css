@@ -86,6 +86,17 @@
   background-color: #c0392b;
 }
 
+.btn-inverse-putih{
+  background-color: #fff !important;
+  color: #e74c3c;
+  border-color: #ecf0f1 !important;
+}
+
+.btn-inverse-putih:hover{
+  background-color: #ecf0f1 !important;
+  color: #e74c3c;
+}
+
 
 /* Judul Slide Show Awal */
 #highlighted h1.fls{
@@ -131,7 +142,9 @@
  *-------------------------------------------------- 
  */
 .bg-merah{
-  background-color: #e74c3c;
+  background-color: #e74c3c !important;
+  color:#fff !important;
+  border-color:#c0392b; 
 }
 
 .txt-merah{
@@ -139,7 +152,21 @@
 }
 
 .border-putih{
+  border-color: #fff !important;
+}
+
+.all-putih{
+  color: #fff;
   background-color: #fff;
+  border-color: #fff;
+}
+/* Reset File   */
+.bg-inverse{
+  background-color: #e74c3c !important;
+}
+
+.font-hitam{
+  color:#292b2c !important;
 }
 
 /*
