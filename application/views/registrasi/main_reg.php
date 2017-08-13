@@ -5,7 +5,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 	<link rel="apple-touch-icon" sizes="76x76" href="assets/img/apple-icon.png" />
 	<link rel="icon" type="image/png" href="<?=base_url();?>assets/img/logo/fav.png" />
-	<title>Registrasi Peserta TYFI Indonesia 2017</title>
+	<title>Registrasi Peserta TYF Indonesia 2017</title>
 
 	<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
     <meta name="viewport" content="width=device-width" />
@@ -77,7 +77,7 @@
 
 	    <div class="footer">
 	        <div class="container text-center">
-	            Made with <i class="fa fa-heart heart"></i> by <a href="https://indrakusuma.web.id">TYFI Indonesia 2017</a>.</a>
+	            Made with <i class="fa fa-heart heart"></i> by <a href="https://indrakusuma.web.id">TYF Indonesia 2017</a>.</a>
 	        </div>
 	    </div>
 	</div>

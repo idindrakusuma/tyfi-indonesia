@@ -10,8 +10,8 @@
                 <p class="description">
                 	<ol type="a">
                 		<li>Pendaftaran dimulai tanggal 19 Juni 2017 dan ditutup pada tanggal 19 Agustus 2017, atau setelah kuota terpenuhi.</li>
-                		<li>Pendaftaran dilakukan melalui website TYFI Indonesia www.tyniindonesia.com</li>
-                		<li>Setelah melunasi biaya pendaftaran  mendapatkan email konfirmasi dari panitia, pendaftar dinyatakan sebagai peserta TYFI Indonesia</li>
+                		<li>Pendaftaran dilakukan melalui website TYF Indonesia www.tyniindonesia.com</li>
+                		<li>Setelah melunasi biaya pendaftaran  mendapatkan email konfirmasi dari panitia, pendaftar dinyatakan sebagai peserta TYF Indonesia</li>
 						<li>Tidak ada pengembalian biaya jika peserta melakukan pembatalan atau tidak menghadiri acara, kecuali dialokasikan kepada orang lain.</li>
 						<!-- check lagi soal nomor yang bisa digunakan  -->
                 		<li>Panitia tidak menyediakan akomodasi dan penginapan, hanya referensi penginapan dengan menghubungi Bella (+6281226239207) WA.</li>

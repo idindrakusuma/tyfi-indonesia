@@ -15,7 +15,7 @@ HAPPY CODING!
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title><?=$title;?> | <?=$_SESSION['user_role']; ?></title>
-	<meta name="description" content="Future Leader Summit Web Admin">
+	<meta name="description" content="TYF Admin Panel">
 	<meta name="author" content="Indra Kusuma">
 	<!-- Favicon -->
     <link rel="shortcut icon" href="<?=base_url();?>/assets/img/fav-fls.png">

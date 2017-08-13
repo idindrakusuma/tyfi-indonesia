@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Silahkan login terlebih dahulu | TYFI System</title>
+  <title>Silahkan login terlebih dahulu | TYF System</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <!-- Bootstrap 3.3.6 -->
@@ -46,7 +46,7 @@
 <body class="hold-transition login-page">
 	<div class="login-box">
 	  <div class="login-logo">
-	    <a href="#"><b>TYFI Indonesia 2017 </b>Panel Admin</a> <!--
+	    <a href="#"><b>TYF Indonesia 2017 </b>Panel Admin</a> <!--
 	    <img src="<?=base_url();?>assets/img/logo-white.png" class="img img-responsive" alt="Logo Apps	"> -->
 	  </div>
 	  <!-- /.login-logo -->
@@ -93,7 +93,7 @@
 	<!-- /.login-box -->
 	<!-- /.content-wrapper -->
   <div class="footer-new">
-    Copyright &copy; 2017. Make with <i class="glyphicon glyphicon-heart"></i> <a href="https://indrakusuma.web.id" style="color:#555;" title="Indra Kusuma">TYFI Indonesia</a>. All rights
+    Copyright &copy; 2017. Make with <i class="glyphicon glyphicon-heart"></i> <a href="https://indrakusuma.web.id" style="color:#555;" title="Indra Kusuma">TYF Indonesia</a>. All rights
     reserved.
   </div>
 	<!-- jQuery 2.2.3 -->

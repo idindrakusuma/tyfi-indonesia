@@ -3,9 +3,9 @@
         <div class="row">
           <!--@todo: replace with company copyright details-->
           <div class="col-md-6">
-            <p class="mb-0 text-sm">Copyright 2017 &copy; TYFI Indonesia</p>
+            <p class="mb-0 text-sm">Copyright 2017 &copy; TYF Indonesia</p>
             <ul class="list-inline footer-links mb-0 text-sm">
-              <li class="list-inline-item"><a href="#">Registrasi</a></li>
+              <li class="list-inline-item"><a href="<?=base_url();?>">Registrasi</a></li>
               <li class="list-inline-item"><a href="#about">Tentang</a></li>
               <li class="list-inline-item"><a href="#contact">Hubungi Kami</a></li>
             </ul>

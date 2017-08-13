@@ -17,10 +17,10 @@ HAPPY CODING!
 
     <!-- infromasi website  -->
     <!-- SEO -->
-    <meta name="keyword" content="">
-    <meta name="description" content="">
-    <meta property="og:url" content="" />
-    <meta property="og:image" content="" />
+    <meta name="keyword" content="Tabernacle Youth Fellowship (TYF), tyf, tyf indonesia 2018">
+    <meta name="description" content="Tabernacle Youth Fellowship (TYF) mulai terbentuk sejak 2009 dan mulai aktif melakukan kegiatan event nasional yang berawal di Surabaya. Selanjutnya TYF terus melakukan kegiatan nasional tahunan dengan berpindah kota dari daerah Jawa Barat, Jawa Tengah dan Jawa Timur. ">
+    <meta property="og:url" content="<?=base_url();?>" />
+    <meta property="og:image" content="<?=base_url();?>assets/img/slides/slide_1.jpg" />
     <meta name="author" content="TFY Indonesia">
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css">
@@ -37,7 +37,7 @@ HAPPY CODING!
     <link href='http://fonts.googleapis.com/css?family=Calligraffitti' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,700' rel='stylesheet' type='text/css'>
 
-    <!-- google analystic -->
+    <!-- google analystic now  -->
 
   </head>
 

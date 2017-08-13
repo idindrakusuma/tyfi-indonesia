@@ -42,7 +42,7 @@
                   <label class="sr-only" for="contact-message">Message</label>
                   <?php echo form_textarea(array('rows'=>'5','class'=>'form-control','placeholder'=>'Pesan Kamu..','name'=>'isi_pesan','required'=>'required'))?>
                 </div>
-                <input type="submit" class="btn btn-outline-primary btn-lg" value="Send Message">
+                <input type="submit" class="btn btn-outline-primary btn-style btn-lg" value="Send Message">
               <?php echo form_close()?>
             </div>
             <div class="col-md-5 offset-md-1 mt-4 mt-md-0" data-animate="fadeIn" data-animate-delay="0.4">

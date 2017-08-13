@@ -136,6 +136,10 @@
   max-width: 100%;
 }
 
+.btn-style{
+  animation-delay: 0.55s;
+  border-radius: 3px 35px;
+}
 /*
  * --------------------------------------------------
  * 2. Colours

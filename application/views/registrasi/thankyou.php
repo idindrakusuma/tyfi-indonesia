@@ -44,7 +44,7 @@
                     <div class="card wizard-card" data-color="red" id="wizardProfile">
                         <div class="wizard-header text-center">
                               <h3 class="wizard-title">Kamu berhasil mendaftar calon Peserta!</h3>
-                          <p class="category">Tyfi Indonesia 2017 "Overflow"</p>
+                          <p class="category">TYF Indonesia 2017 "Overflow"</p>
                           <hr>
                           </div>
                             <div class="col-sm-4 col-sm-offset-1">

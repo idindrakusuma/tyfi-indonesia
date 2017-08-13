@@ -7,7 +7,7 @@
               Testimonials
             </h2>
             <h3 class="text-center font-weight-light mt-2 mb-0 text-grey">
-              Mengenai INConference 2017
+              Mengenai TYF Indonesia
             </h3>
             <hr class="mb-5 w-50 mx-auto border-putih" />
           </div>
