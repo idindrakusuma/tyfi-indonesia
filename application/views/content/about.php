@@ -3,7 +3,7 @@
           <div data-animate="fadeIn" data-animate-duration="0.8">
             <hr class="hr-lg mt-0 mb-3 w-10 mx-auto hr-primary" />
             <h2 class="text-center font-weight-bold my-0">
-              About TYF Indonesia 2017
+              About TYF Indonesia 2018
             </h2>
             <h3 class="text-center font-weight-light mt-2 mb-0 text-muted">
                "Isi Temanya Disini"
