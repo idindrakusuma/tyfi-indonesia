@@ -9,21 +9,22 @@
 				<label>1. Pendaftaran</label>
                 <p class="description">
                 	<ol type="a">
-                		<li>Pendaftaran dimulai tanggal 19 Juni 2017 dan ditutup pada tanggal 19 Agustus 2017, atau setelah kuota terpenuhi.</li>
+                		<li>Pendaftaran dimulai tanggal 1 Desember 2017 dan ditutup pada tanggal 31 Mei 2018, atau setelah kuota terpenuhi.</li>
                 		<li>Pendaftaran dilakukan melalui website TYF Indonesia www.tyniindonesia.com</li>
-                		<li>Setelah melunasi biaya pendaftaran  mendapatkan email konfirmasi dari panitia, pendaftar dinyatakan sebagai peserta TYF Indonesia</li>
-						<li>Tidak ada pengembalian biaya jika peserta melakukan pembatalan atau tidak menghadiri acara, kecuali dialokasikan kepada orang lain.</li>
+                		<li>Setelah mendaftar akan mendapatkan email balasan untuk melakukan transfer, dan <b> bukti transfer</b> bisa di kirim melalui contact person (Tata 085814535766 dan  Jessica 087834679407) WA avaible, atau bisa kirim ke email tyfindonesia@gmail.com </li>
+						<li>Setelah mengirimkan bukti pembayaran maka akan mendapatkan email konfirmasi dari panitia berisi e-ticket yang akan dibawa dan ditunjukan kepada panitia saat registrasi ulang.</li>
 						<!-- check lagi soal nomor yang bisa digunakan  -->
-                		<li>Panitia tidak menyediakan akomodasi dan penginapan, hanya referensi penginapan dengan menghubungi Bella (+6281226239207) WA.</li>
-                		<li>Panitia menyediakan konsumsi makan siang.</li>
+                		<li>Tidak ada pengembalian biaya jika peserta melakukan pembatalan atau tidak menghadiri acara, kecuali dialokasikan kepada orang lain.</li>
+						<li>Panitia tidak menyediakan akomodasi dan penginapan, hanya referensi penginapan dengan menghubungi Bella (081226239207) WA available.</li>
+						<li>Panitia menyediakan konsumsi makan siang.</li>
                 	</ol>
                 </p>
 				<!-- pembayaran inconference  -->
                 <label>2. Pembayaran</label>
                 <p class="description">
                 	<ol type="a">
-                		<li>Pelunasan biaya pendaftaran dilakukan via transfer BCA No.Rek 0095582007 a/n Susanto Tjahjono & Yogi Santoso.BCA Semarang</li>
-                		<li>Bukti pembayaran dapat dikirimkan melalui email inconference2017@gmail.com atau <b>Jessica : +62 878-3467-9407</b> (WA Avaible)</li>
+                		<li>Pelunasan biaya pendaftaran dilakukan via transfer BCA No.Rek 4 888 000 877 a/n Imelda Paula Tumbel / Meilisa BCA Semarang</li>
+                		<li>Bukti pembayaran dapat dikirimkan melalui email tyfindonesia@gmail.com atau Hana (+6287834429196) WA.</li>
                 	</ol>
                 </p>
 			</div>

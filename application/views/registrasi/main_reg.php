@@ -4,18 +4,18 @@
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 	<link rel="apple-touch-icon" sizes="76x76" href="assets/img/apple-icon.png" />
-	<link rel="icon" type="image/png" href="<?=base_url();?>assets/img/logo/fav.png" />
+	<link rel="shortcut icon" href="<?=base_url();?>assets/img/logo/logo_tfy.png">
 	<title>Registrasi Peserta TYF Indonesia 2017</title>
 
 	<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
     <meta name="viewport" content="width=device-width" />
 
     <!-- SEO -->
-    <meta content='#252422' name='theme-color'/>
-    <meta name="keyword" content="">
-    <meta name="description" content="">
-    <meta property="og:url" content="" />
-    <meta property="og:image" content="" />
+	<meta name="keyword" content="Tabernacle Youth Fellowship (TYF), tyf, tyf indonesia 2018">
+    <meta name="description" content="Tabernacle Youth Fellowship (TYF) mulai terbentuk sejak 2009 dan mulai aktif melakukan kegiatan event nasional yang berawal di Surabaya. Selanjutnya TYF terus melakukan kegiatan nasional tahunan dengan berpindah kota dari daerah Jawa Barat, Jawa Tengah dan Jawa Timur. ">
+    <meta property="og:url" content="<?=base_url();?>" />
+    <meta property="og:image" content="<?=base_url();?>assets/img/slides/slide_1.jpg" />
+    <meta name="author" content="TFY Indonesia">
 
 	<!-- CSS Files -->
     <link href="<?=base_url();?>assets/registrasi/css/bootstrap.min.css" rel="stylesheet" />
