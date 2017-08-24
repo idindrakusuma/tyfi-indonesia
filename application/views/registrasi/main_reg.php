@@ -32,6 +32,7 @@
 </head>
 
 <body>
+	<!-- ubah background disini -->
 	<div class="image-container set-full-height" style="background-image: url('<?=base_url();?>assets/img/slides/slide_1.jpg'); background-attachment: fixed;">
 	    <!--   Big container   -->
 	    <div class="container">
