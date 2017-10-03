@@ -32,7 +32,7 @@
 </head>
 
 <body>
-  <div class="image-container set-full-height" style="background-image: url('<?=base_url();?>assets/registrasi/img/background.png'); background-attachment: fixed;">
+<div class="image-container set-full-height" style="background-image: url('<?=base_url();?>assets/img/slides/slide_1.jpg'); background-attachment: fixed;">
       <!--   Big container   -->
       <div class="container">
           <div class="row">
@@ -60,14 +60,14 @@
                                     <p class="description">
                                       <ol>
                                         <li>Periksa email kamu <!-- [<?=$email;?>]. --></li>
-                                        <li>Ikuti langkah - langkah yang tertera pada email balasan dari 
+                                        <li>Ikuti langkah - langkah yang tertera pada email balasan dari
                                           <!-- tulis email yang digunakan  -->
                                           <i>inconference2017@gmail.com</i></li>
                                         <li>Selesai,</li>
                                       </ol>
                                     </p>
                                     <a href="<?=base_url();?>" class="btn btn-sm btn-danger"> Kembali ke Beranda</a>
-                                    <a href="<?=base_url();?>/register" class="btn btn-sm btn-warning">Daftar Lagi</a> 
+                                    <a href="<?=base_url();?>/register" class="btn btn-sm btn-warning">Daftar Lagi</a>
                                 </div>
                             </div>
                     </div>
