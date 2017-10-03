@@ -1,6 +1,8 @@
 index.php
 application/config/config.php
 application/config/database.php
+application/controllers/Daftar_controller.php
+
 panel-admin/index.php
 panel-admin/application/config.php
 panel-admin/application/database.php

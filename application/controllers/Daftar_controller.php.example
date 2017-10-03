@@ -14,7 +14,7 @@ class Daftar_controller extends CI_Controller {
 		    'smtp_host' => 'ssl://smtp.googlemail.com',
 		    'smtp_port' => 465,
 		    'smtp_user' => 'noreply.tyfindonesia@gmail.com',
-		    'smtp_pass' => 'haloduniamaya',
+		    'smtp_pass' => '***************',
 		    'mailtype'  => 'html',
 		    'charset'   => 'iso-8859-1',
 		    'wordwrap' 	=> TRUE,
