@@ -266,7 +266,7 @@
                         Masih ada satu langkah lagi untuk mendapatkan E-Tiket pendaftaran yaitu dengan membayar biaya  registrasi sebesar :
                          </p>
 
-                        <center style="text-align: center; font-weight: bold; font-size: 22px">Rp. <?=$bayar;?></center>
+                        <center style="text-align: center; font-weight: bold; font-size: 22px">Rp. <?=number_format($bayar, 0, ',','.');?></center>
                         <br/>
                         <hr>
                          <p style="color:#5b5f65; font-size:14px; text-align:left; font-family: Verdana, Geneva, sans-serif">
