@@ -6,20 +6,20 @@
         </div>
         <div class="col-sm-10 col-sm-offset-1">
 			<div class="form-group">
-				<label>Asal Gereja/Organisasi <small>*</small></label>
+				<label>Organisasi <small>*</small></label>
 				<?php echo form_input(array('name'=> 'asal_organisasi', 'type'=>'text', 'class'=>'form-control', 'placeholder'=>'Nama Grup'));?>
 			</div>
 		</div>
 		<div class="col-sm-10 col-sm-offset-1">
 			<div class="form-group">
-				<label>Alamat Gereja/Organisasi <small>*</small></label>
+				<label>Alamat Organisasi <small>*</small></label>
 				<?php echo form_textarea(array('name'=> 'alamat_organisasi', 'class'=>'form-control','rows' => '3', 'placeholder'=>'Jalan Pandanaran nomor 10A,Semarang Barat,Semarang')); ?>
 			</div>
 		</div>
 
 		<div class="col-sm-10 col-sm-offset-1">
 			<div class="form-group">
-				<label>Pelayanan <small>*</small></label>
+				<label>Fokus Organisasi <small>*</small></label>
 				<?php echo form_input(array('name'=> 'pelayanan', 'type'=>'text', 'class'=>'form-control', 'placeholder'=>'Musik'));?>
 			</div>
 		</div>

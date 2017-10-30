@@ -24,13 +24,13 @@
  * http://www.apache.org/licenses/LICENSE-2.0
  *
  */
-/*  
+/*
  *
  *   SCSS by Creative Tim
  *   http://www.creative-tim.com
- *   
+ *
  */
-.datepicker {
+/*.datepicker {
   top: 0;
   left: 0;
   padding: 4px;
@@ -222,4 +222,4 @@
 .datepicker-months thead {
   padding: 0 0 3px;
   display: block;
-}
+}*/

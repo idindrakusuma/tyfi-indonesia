@@ -18,16 +18,17 @@
     <meta name="author" content="TFY Indonesia">
 
 	<!-- CSS Files -->
-    <link href="<?=base_url();?>assets/registrasi/css/bootstrap.min.css" rel="stylesheet" />
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.7.1/css/bootstrap-datepicker.min.css">
+
 	<link href="<?=base_url();?>assets/registrasi/css/paper-bootstrap-wizard.css" rel="stylesheet" />
 
 	<!-- CSS Just for demo purpose, don't include it in your project -->
 	<link href="<?=base_url();?>assets/registrasi/css/demo.css" rel="stylesheet" />
 
 	<!-- Fonts and Icons -->
-    <link href="https://netdna.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.css" rel="stylesheet">
 	<link href='https://fonts.googleapis.com/css?family=Muli:400,300' rel='stylesheet' type='text/css'>
-	<link href="<?=base_url();?>assets/registrasi/css/themify-icons.css" rel="stylesheet">
+	<link href="https://cdn.jsdelivr.net/gh/lykmapipo/themify-icons@0.1.2/css/themify-icons.css" rel="stylesheet">
 	<!-- google analystic -->
 </head>
 
@@ -51,12 +52,12 @@
 
 								<?php $this->load->view('registrasi/nav_reg'); ?>
 		                        <div class="tab-content">
-		                        <?php 
+		                        <?php
 		                        	$this->load->view('registrasi/konten/syarat');
 		                        	$this->load->view('registrasi/konten/biodata');
 		                        	$this->load->view('registrasi/konten/gereja');
 		                        ?>
-		                   
+
 		                        </div>
 		                        <div class="wizard-footer">
 		                            <div class="pull-right">
@@ -87,14 +88,14 @@
 
 	<!--   Core JS Files   -->
 	<script src="<?=base_url();?>assets/registrasi/js/jquery-2.2.4.min.js" type="text/javascript"></script>
-	<script src="<?=base_url();?>assets/registrasi/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 	<script src="<?=base_url();?>assets/registrasi/js/jquery.bootstrap.wizard.js" type="text/javascript"></script>
 
 	<!--  More information about jquery.validate here: http://jqueryvalidation.org/	 -->
-	<script src="<?=base_url();?>assets/registrasi/js/datepicker.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.7.1/js/bootstrap-datepicker.min.js"></script>
 	<script src="<?=base_url();?>assets/registrasi/js/jquery.validate.min.js" type="text/javascript"></script>
 	<script src="<?=base_url();?>assets/registrasi/js/paper-bootstrap-wizard.js" type="text/javascript"></script>
 
-	
+
 
 </html>

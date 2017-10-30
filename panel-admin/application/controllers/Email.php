@@ -18,17 +18,17 @@ class Email extends CI_Controller {
 
         $this->load->helper('form','session');
 		//load email
-        $config = array(
-		    'protocol' 	=> 'smtp',
-		    'smtp_host' => 'ssl://smtp.googlemail.com',
-		    'smtp_port' => 465,
-		    'smtp_user' => 'inconference2017@gmail.com',
-		    'smtp_pass' => 'Helloworld',
-		    'mailtype'  => 'html',
-		    'charset'   => 'iso-8859-1',
-		    'wordwrap' 	=> TRUE,
-		    'newline' 	=> "\r\n"
-		);
+		$config = array(
+		'protocol' 	=> 'smtp',
+		'smtp_host' => 'ssl://smtp.googlemail.com',
+		'smtp_port' => 465,
+		'smtp_user' => 'noreply.tyfindonesia@gmail.com',
+		'smtp_pass' => 'haloduniamaya',
+		'mailtype'  => 'html',
+		'charset'   => 'iso-8859-1',
+		'wordwrap' 	=> TRUE,
+		'newline' 	=> "\r\n"
+);
 		//load konfigurasi email
 		$this->load->library('email', $config);
 	}
@@ -44,7 +44,7 @@ class Email extends CI_Controller {
 		//=============================================================================
 
 		//=============================================================================
-		$this->email->from('inconference2017@gmail.com', 'Inconference 2017');
+		$this->email->from('noreply.tyfindonesia@gmail.com', 'TYF Indonesia');
 		//=============================================================================
 
 		$isi_pesan = $this->load->view('email/tiket',$data,true);
@@ -53,7 +53,7 @@ class Email extends CI_Controller {
 		$this->email->message($isi_pesan);
 
 		//attach tiket
-		$this->email->attach(APPPATH.'third_party/tiket/tiket_incoference_2017.pdf');
+		$this->email->attach(APPPATH.'third_party/tiket/tiket_tyfindonesia.pdf');
 			if($this->email->send())
 	     	{
 	         	//jika pengiriman email berhasil --> tampilkan info sukses verifikasi dan pengiriman E-Tiket peserta

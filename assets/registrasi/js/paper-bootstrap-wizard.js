@@ -45,7 +45,8 @@ transparent = true;
                     hp: {
                       required: true,
                       number:true,
-                      minlength:10
+                      minlength:10,
+                      maxlength:13
                     },
                     tanggal_lahir: {
                         required:true,
@@ -85,6 +86,7 @@ transparent = true;
                     messages: {
                         required: "Pertanyaan ini wajib diisi..",
                         minlength: "Data terlalu singkat..",
+                        maxlength: "Data terlalu banyak..",
                         number: "Format nomor tidak sesuai..",
                         date:"Tolong masukan tanggal lahir yang sesuai..",
                         email: "Tolong masukan email yang benar..",
@@ -223,12 +225,11 @@ $(document).ready(function(){
     }
 });
 
- if($('.datepicker').length != 0){
-        $('.datepicker').datepicker({
-             weekStart:1,
-             color: '{color}'
-         });
-    }
+
+$('.datepicker').datepicker({
+     format: 'yyyy-mm-dd',
+     endDate: '2005-01-01' //set maksimal tanggalnya
+ });
 
 
     //Bind this keypress function to all of the input tags
